@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Campus Connect",
+    "slug": "campus-connect-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "49.0.0",
+    "platforms": ["ios", "android", "web"]
+  }
+}
